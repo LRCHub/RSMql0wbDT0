@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Glastonbury",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-25T05:18:02.640511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paranoid Android (Glastonbury 1997)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Paranoid_Android_(Glastonbury_1997)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Live Forever - Live at Glastonbury '95",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Live_Forever_-_Live_at_Glastonbury_'95_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Live Forever (Live At Glastonbury '95)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Live_Forever_(Live_At_Glastonbury_'95)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Live Forever (Live Glastonbury '95)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Live_Forever_(Live_Glastonbury_'95)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All I Want To Do Is Rock - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/05_All_I_Want_To_Do_Is_Rock_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All I Want To Do Is Rock (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/06_All_I_Want_To_Do_Is_Rock_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "As You Are - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/07_As_You_Are_-_Live_At_Glastonbury_Festival___1999_Travis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "As You Are (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/08_As_You_Are_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Flashing Light - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/09_Blue_Flashing_Light_-_Live_At_Glastonbury_Festival___1999_Travis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue Flashing Light (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/10_Blue_Flashing_Light_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Coming Around - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/11_Coming_Around_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Coming Around (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/12_Coming_Around_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Driftwood - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/13_Driftwood_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Driftwood (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/14_Driftwood_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Day To Die - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/15_Good_Day_To_Die_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Day To Die (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/16_Good_Day_To_Die_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Feeling - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/17_Good_Feeling_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good Feeling (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/18_Good_Feeling_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Gravity Grave - Live Glastonbury 93",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/19_Gravity_Grave_-_Live_Glastonbury_93_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Gravity Grave [Live Glastonbury 93]",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/20_Gravity_Grave_[Live_Glastonbury_93]_The_Verve.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glastonbury",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_Glastonbury_Mr.Children.txt"
+    }
+  ]
+}
